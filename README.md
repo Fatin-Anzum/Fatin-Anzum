@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Fatin, a Computer Science and Engineering student passionate about coding, problem-solving, and building innovative projects. Welcome to my GitHub, where I share my academic projects, personal experiments, and contributions!
+Hi 👋, I'm Fatin, a Computer Science and Engineering student passionate about coding 💻, problem-solving 🧠, and building innovative projects 🚀. Welcome to my GitHub, where I share my academic projects 📚, personal experiments 🧪, and contributions 🤝!<br>
 
 
 ## 🌐 Socials:
