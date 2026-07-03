@@ -10,9 +10,6 @@ Hi 👋, I'm Fatin, a Computer Science and Engineering student passionate about 
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatin-Anzum&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fatin-Anzum&theme=github-dark&hide_border=true" alt="GitHub Streak" />
