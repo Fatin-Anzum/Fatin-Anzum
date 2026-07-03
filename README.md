@@ -15,8 +15,5 @@ Hi 👋, I'm Fatin, a Computer Science and Engineering student passionate about 
   <img src="https://streak-stats.demolab.com?user=Fatin-Anzum&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatin-Anzum&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
